@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": "e45t",
+      "token": "e45tthfyb347",
+      "email": "Xalal@gmail.com",
+      "name": "Go'sht",
+      "sername": "Xalal",
+      "password": "ftnS%67q"
+    },
+    {
+      "id": "f46y",
+      "token": "e45tthfyb347",
+      "email": "Alex@gmail.com",
+      "name": "Shermat",
+      "sername": "Boltaboev",
+      "password": "ftn"
+    }
+  ],
+  "cards": [
+    {
+      "cardName": "Humo",
+      "valuta": "summ",
+      "id": "b4f9",
+      "userId": "e45t"
+    },
+    {
+      "cardName": "MasterCard",
+      "valuta": "rub",
+      "id": "b3bb",
+      "userId": "e45t"
+    },
+    {
+      "cardName": "Exspress",
+      "valuta": "rub",
+      "id": "d31f",
+      "userId": "f46y"
+    },
+    {
+      "cardName": "Visa",
+      "valuta": "rub",
+      "id": "e7d6",
+      "userId": "e45t"
+    },
+    {
+      "cardName": "Humo",
+      "valuta": "summ",
+      "id": "b3bb",
+      "userId": "f46y"
+    },
+    {
+      "cardName": "MasterCard",
+      "valuta": "rub",
+      "id": "b4f9",
+      "userId": "f46y"
+    },
+    {
+      "cardName": "PlastCard",
+      "valuta": "rub",
+      "id": "e7d6",
+      "userId": "f46y"
+    },
+    {
+      "id": "fc57",
+      "cardName": "res",
+      "valuta": "fdg",
+      "userId": "e45t"
+    }
+  ],
+  "transaction": [
+    {
+      "userid": "e45t",
+      "cardid": "fc57",
+      "id": "148",
+      "koshelok": "VISA",
+      "category": "AVTO",
+      "summa": "453000",
+      "when": "22:19"
+    },
+    {
+      "userid": "e45t",
+      "cardid": "fc57",
+      "id": "10",
+      "koshelok": "VISA",
+      "category": "AVTO",
+      "summa": "453000",
+      "when": "22:19"
+    },
+    {
+      "userid": "e45t",
+      "id": "47",
+      "koshelok": "VISA",
+      "category": "AVTO",
+      "summa": "453000",
+      "when": "22:19"
+    },
+    {
+      "userid": "f46y",
+      "id": "148",
+      "koshelok": "VISA",
+      "category": "AVITO",
+      "summa": "45000",
+      "when": "16:19"
+    },
+    {
+      "userid": "f46y",
+      "id": "2",
+      "koshelok": "VISA",
+      "category": "AVITO",
+      "summa": "53000",
+      "when": "22:19"
+    },
+    {
+      "userid": "f46y",
+      "id": "79",
+      "koshelok": "VISA",
+      "category": "AVITO",
+      "summa": "4530000",
+      "when": "10:19"
+    }
+  ]
+}
